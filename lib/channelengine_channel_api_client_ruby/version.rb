@@ -11,5 +11,5 @@ OpenAPI Generator version: 5.1.1
 =end
 
 module ChannelEngineChannelApiClient
-  VERSION = '2.9.10'
+  VERSION = '2.9.10.1'
 end
